@@ -5,4 +5,4 @@ Run following commands to start runnig the project
 npm install -g live-server <br>
 npm start
 
-![](img/terrain-js-sample.JPG)
+![](public/img/terrain-js-sample.JPG)
