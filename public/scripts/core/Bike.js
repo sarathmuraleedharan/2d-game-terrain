@@ -17,7 +17,7 @@ export default class Bike {
         this.img.onload = () => {
             this.bikeImage = this.img;
         }
-        this.img.src = "/img/bike_sm.png";
+        this.img.src = "img/bike_sm.png";
 
     }
     update(points) {
